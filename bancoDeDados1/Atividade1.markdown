@@ -1,0 +1,9 @@
+# Questão
+O Sistema de Gerenciamento de Bancos de Dados é um conjunto de programas que serve para gerenciar um ou mais bancos de dados. Sendo assim, pesquise sobre os bancos de dados mais utilizados no mercado de trabalho e descreva dois deles.
+
+## Resposta
+### Oracle
+O SGBD (sistema gerenciador de banco de dados) Oracle surgiu no fim dos anos 70, criado por Larry Ellison devido a uma ideia vanguardista em relação as companhias concorrentes, Ellison encontrou uma descrição de um protótipo funcional de um banco de dados relacional, na epóca, nenhuma empresa havia se empenhado em comercializar essa tecnologia. Devido a esse vácuo no mercado, Ellison, Bob Miner e Ed Oates (co-fundadores da Oracle) perceberam o potencial de negócios do modelo de banco de dados relacional e se tornaram a maior empresa de software empresarial do mundo. A Oracle também desenvolve a Oracle Developes Suite, uma suíte de desenvolvimente utilizada no desenvolvimento de programas de computador com interação na sua base de dados. O processamento de transações também foi abarcado pela Oracle com a criação da linguagem PL/SQL, bastante usada no ramo.
+
+### DB2
+O DB2 é um SGBG lançado em 1983 pela IBM, o mesmo é baseado em SQL/DS para seu mainframe. No início ele era chamado de System R, sendo iniciado em 1978. Edgar Frank Codd começou o projeto no início dos anos 70, enquanto trabalhava para IBM descreveu a teoria dos Banco de dados Relacionais e a publicou em Junho de 1970. Codd criou uma linguagem de banco de dados relacionaial, nomeando-a de Alpha, com o intuito de aplicar o modelo. Porém, por conta da descrença da IBM na capacidade de suas ideias, Codd, foi deixado de fora da supervisão do grupo de programadores, os quais mudaram diversas das ideias primordiais de seu modelo relacional. Originando a linguagem SEQUEL, a qual, foi posteriormente mudada para SQL, visto que SEQUEL já estava sob domínio.
