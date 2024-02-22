@@ -1,5 +1,6 @@
 # Questão
-Observe as três capturas de tela em anexo. Cada uma delas tem áreas sinalizadas e numeradas, além de um grupo específico de tags HTML logo embaixo.
+Observe as três capturas de tela em anexo. Cada uma delas tem áreas sinalizadas e numeradas, além de um grupo específico de tags HTML logo embaixo.  
+
 ![atividade1](Exercício1_HTML-CSS_img1.png)
 ![atividade1](Exercício1_HTML-CSS_img2.png)
 ![atividade1](Exercício1_HTML-CSS_img3.png)
